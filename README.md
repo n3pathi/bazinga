@@ -1,1 +1,1 @@
-" Pratima is saying hi to you " 
+Just to say hi
