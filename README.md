@@ -1,2 +1,1 @@
-# bazinga
-random stuff
+Just to say hi
